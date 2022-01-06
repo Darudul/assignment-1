@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+}
+h1 {
+  border-left: 5px solid;
+  border-radius: 20px;
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1;
+  font-family: font-family: 'Balsamiq Sans', cursive;
+  font-size: 50px;
+  paddin
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: font-family: 'Balsamiq Sans', cursive;
+}
+
+.orange-color {
+  color: orange;
+  display: block;
+}
+.fexible-container {
+  display: flex;
+  margin: 0px 100px;
+}
+.half-width {
+  width: 50%;
+}
+.space{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+img {
+  width: 60%;
+  padding: 20px 20px;
+}
+a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: tomato;
+  color: white;
+  font-weight: 300;
+  border-radius: 20px;
+}
+.one-third-width{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 20px;
+}
+#mission{
+    background-color: rgba(128, 128, 128, 0.486);
+}
+#vission{
+    background-color: rgba(255, 192, 203, 0.425);
+}
+#goals{
+    background-color: rgba(255, 255, 0, 0.212);
+}
+
+.orange{
+    color: orange;
+   
+}
+.take-right{
+    text-align: left;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+    
+}
